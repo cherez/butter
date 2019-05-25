@@ -1,0 +1,7 @@
+static fun main() {
+    print("Hello, world!")
+}
+
+# $ butter -c hello2.btr
+# $ ./hello2
+# Hello, world!

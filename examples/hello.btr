@@ -1,0 +1,4 @@
+print("Hello, world!")
+
+# $ butter hello.btr
+# Hello world!

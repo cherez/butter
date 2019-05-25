@@ -1,0 +1,11 @@
+print("Who is this program for?")
+var target: String = readline()
+static fun main() {
+    print("Hello, ", target, "!")
+}
+
+# $ butter -c hello3.btr
+# Who is this program for?
+# me
+# $ ./hello3
+# Hello, me!
